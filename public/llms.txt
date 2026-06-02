@@ -1,0 +1,78 @@
+# Lovabolt — Generative Engine Optimization Map
+
+> A platform or service that connects different websites together, enabling integration or data sharing between them. The concept revolves around bridging web platforms, possibly offering tools or services for website synchronization, API connections, or cross-platform functionality.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו איך Lovabolt מגשרת בין אתרים ומערכות בענן. פתרונות אינטגרציה חכמים, סנכרון נתונים וחיבורי API לעולם ה-AWS Cloud Practitioner. התחילו לבנות גשרים דיגיטליים עוד היום!
+
+### תכונות
+https://example.com/features
+הכירו את ארגז הכלים של Lovabolt: ניתוח נתונים מתקדם, אינטגרציות אוטומטיות והכשרות AWS Data Analytics בחינם. קחו את הפלטפורמות שלכם צעד קדימה עם טכנולוגיית גישור חדשנית!
+
+### אודות
+https://example.com/about
+Lovabolt נולדה כדי לחבר אתרים ופלטפורמות בעולם ה-AWS IoT. למדו על החזון, הצוות והטכנולוגיה שמאפשרת סנכרון חכם בין מערכות. הצטרפו למהפכת הקישוריות!
+
+### צור קשר
+https://example.com/contact
+מוכנים לחבר את האתרים שלכם עם פתרונות AWS Cloud Practitioner? צרו קשר עם Lovabolt לייעוץ, הדרכה חינם והתאמת כלי אינטגרציה לעסק. הקליקו כדי לגשר על הפערים הדיגיטליים!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Lovabolt
+A platform or service that connects different websites together, enabling integration or data sharing between them. The concept revolves around bridging web platforms, possibly offering tools or services for website synchronization, API connections, or cross-platform functionality.
+
+## Target Audience
+- מפתחי אתרים
+- בעלי סוכנויות דיגיטליות
+- מנהלי פלטפורמות מסחר אלקטרוני
+
+## Industry
+Technology / Web Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
