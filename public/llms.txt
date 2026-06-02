@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://lovabolt.zappy5.app
 גלו איך Lovabolt מגשרת בין אתרים ומערכות בענן. פתרונות אינטגרציה חכמים, סנכרון נתונים וחיבורי API לעולם ה-AWS Cloud Practitioner. התחילו לבנות גשרים דיגיטליים עוד היום!
 
 ### תכונות
-https://example.com/features
+https://lovabolt.zappy5.app/features
 הכירו את ארגז הכלים של Lovabolt: ניתוח נתונים מתקדם, אינטגרציות אוטומטיות והכשרות AWS Data Analytics בחינם. קחו את הפלטפורמות שלכם צעד קדימה עם טכנולוגיית גישור חדשנית!
 
 ### אודות
-https://example.com/about
+https://lovabolt.zappy5.app/about
 Lovabolt נולדה כדי לחבר אתרים ופלטפורמות בעולם ה-AWS IoT. למדו על החזון, הצוות והטכנולוגיה שמאפשרת סנכרון חכם בין מערכות. הצטרפו למהפכת הקישוריות!
 
 ### צור קשר
-https://example.com/contact
+https://lovabolt.zappy5.app/contact
 מוכנים לחבר את האתרים שלכם עם פתרונות AWS Cloud Practitioner? צרו קשר עם Lovabolt לייעוץ, הדרכה חינם והתאמת כלי אינטגרציה לעסק. הקליקו כדי לגשר על הפערים הדיגיטליים!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://lovabolt.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://lovabolt.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://lovabolt.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://lovabolt.zappy5.app/contact
+- Endpoint: https://lovabolt.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ Technology / Web Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://lovabolt.zappy5.app/sitemap.xml
+- Robots: https://lovabolt.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://lovabolt.zappy5.app/llms-full.txt

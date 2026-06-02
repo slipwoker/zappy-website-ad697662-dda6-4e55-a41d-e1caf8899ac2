@@ -2,13 +2,13 @@
 
 A platform or service that connects different websites together, enabling integration or data sharing between them. The concept revolves around bridging web platforms, possibly offering tools or services for website synchronization, API connections, or cross-platform functionality.
 
-Source: https://example.com
+Source: https://lovabolt.zappy5.app
 
 ---
 
 ## חברו את הפלטפורמות שלכם בקלות — Lovabolt
 
-URL: https://example.com
+URL: https://lovabolt.zappy5.app
 Description: גלו איך Lovabolt מגשרת בין אתרים ומערכות בענן. פתרונות אינטגרציה חכמים, סנכרון נתונים וחיבורי API לעולם ה-AWS Cloud Practitioner. התחילו לבנות גשרים דיגיטליים עוד היום!
 
 חברו את הפלטפורמות שלכם בקלות — Lovabolt
@@ -466,7 +466,7 @@ Lovabolt הופכת אתרי אינטרנט נפרדים למערכת אחת ח�
 
 ## כלים מתקדמים לניתוח נתוני AWS — Lovabolt
 
-URL: https://example.com/features
+URL: https://lovabolt.zappy5.app/features
 Description: הכירו את ארגז הכלים של Lovabolt: ניתוח נתונים מתקדם, אינטגרציות אוטומטיות והכשרות AWS Data Analytics בחינם. קחו את הפלטפורמות שלכם צעד קדימה עם טכנולוגיית גישור חדשנית!
 
 כלים מתקדמים לניתוח נתוני AWS — Lovabolt
@@ -924,7 +924,7 @@ Lovabolt מזהה נפילות באופן אוטומטי ומפעיל מנגנו
 
 ## הסיפור מאחורי גישור העולמות הדיגיטליים — Lovabolt
 
-URL: https://example.com/about
+URL: https://lovabolt.zappy5.app/about
 Description: Lovabolt נולדה כדי לחבר אתרים ופלטפורמות בעולם ה-AWS IoT. למדו על החזון, הצוות והטכנולוגיה שמאפשרת סנכרון חכם בין מערכות. הצטרפו למהפכת הקישוריות!
 
 הסיפור מאחורי גישור העולמות הדיגיטליים — Lovabolt
@@ -1458,7 +1458,7 @@ Lovabolt נולדה מתוך הצורך ליצור שפה אחת משותפת ב
 
 ## צרו גשר לעסק שלכם עוד היום — Lovabolt
 
-URL: https://example.com/contact
+URL: https://lovabolt.zappy5.app/contact
 Description: מוכנים לחבר את האתרים שלכם עם פתרונות AWS Cloud Practitioner? צרו קשר עם Lovabolt לייעוץ, הדרכה חינם והתאמת כלי אינטגרציה לעסק. הקליקו כדי לגשר על הפערים הדיגיטליים!
 
 צרו גשר לעסק שלכם עוד היום — Lovabolt
@@ -1763,7 +1763,7 @@ Description: מוכנים לחבר את האתרים שלכם עם פתרונו�
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://lovabolt.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2013,7 +2013,7 @@ Lovabolt ("החברה", "אנו", "שלנו") מחויבת להגן על פרט�
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://lovabolt.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2272,7 +2272,7 @@ Lovabolt מחויבת להנגיש את השירותים לכלל הציבור. 
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://lovabolt.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
